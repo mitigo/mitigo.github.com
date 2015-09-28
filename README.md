@@ -1,1 +1,1 @@
-#mitio.io blog
+#mitigo.io blog
